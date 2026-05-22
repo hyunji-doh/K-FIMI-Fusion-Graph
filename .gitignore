@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.env
+.venv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints & large files
+*.pt
+*.pth
+*.bin
+*.h5
+*.pkl
+*.pickle
+*.ckpt
+
+# Data files (add specific ones you want to exclude)
+data/raw/
+data/processed/
+*.csv
+*.json
+*.jsonl
+*.parquet
+
+# DB
+db/*.db
+db/*.sqlite
+db/*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/

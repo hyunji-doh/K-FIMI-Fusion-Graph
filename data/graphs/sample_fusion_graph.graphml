@@ -1,0 +1,920 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d29" for="edge" attr.name="timestamp" attr.type="string" />
+  <key id="d28" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d27" for="edge" attr.name="edge_type" attr.type="string" />
+  <key id="d26" for="node" attr.name="usage_count" attr.type="long" />
+  <key id="d25" for="node" attr.name="tag" attr.type="string" />
+  <key id="d24" for="node" attr.name="country" attr.type="string" />
+  <key id="d23" for="node" attr.name="category" attr.type="string" />
+  <key id="d22" for="node" attr.name="credibility_score" attr.type="string" />
+  <key id="d21" for="node" attr.name="title" attr.type="string" />
+  <key id="d20" for="node" attr.name="first_seen" attr.type="string" />
+  <key id="d19" for="node" attr.name="domain" attr.type="string" />
+  <key id="d18" for="node" attr.name="url" attr.type="string" />
+  <key id="d17" for="node" attr.name="language" attr.type="string" />
+  <key id="d16" for="node" attr.name="share_count" attr.type="long" />
+  <key id="d15" for="node" attr.name="like_count" attr.type="long" />
+  <key id="d14" for="node" attr.name="view_count" attr.type="long" />
+  <key id="d13" for="node" attr.name="engagement_score" attr.type="double" />
+  <key id="d12" for="node" attr.name="author_id" attr.type="string" />
+  <key id="d11" for="node" attr.name="text" attr.type="string" />
+  <key id="d10" for="node" attr.name="content_id" attr.type="string" />
+  <key id="d9" for="node" attr.name="description" attr.type="string" />
+  <key id="d8" for="node" attr.name="verified" attr.type="boolean" />
+  <key id="d7" for="node" attr.name="created_at" attr.type="string" />
+  <key id="d6" for="node" attr.name="following_count" attr.type="long" />
+  <key id="d5" for="node" attr.name="followers_count" attr.type="long" />
+  <key id="d4" for="node" attr.name="display_name" attr.type="string" />
+  <key id="d3" for="node" attr.name="username" attr.type="string" />
+  <key id="d2" for="node" attr.name="platform" attr.type="string" />
+  <key id="d1" for="node" attr.name="user_id" attr.type="string" />
+  <key id="d0" for="node" attr.name="node_type" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="05cabedcf757d411">
+      <data key="d0">user</data>
+      <data key="d1">aff3e8c9d2b1</data>
+      <data key="d2">twitter</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">1200</data>
+      <data key="d6">300</data>
+      <data key="d7" />
+      <data key="d8">False</data>
+      <data key="d9" />
+    </node>
+    <node id="778bfa9bc51426bb">
+      <data key="d0">content</data>
+      <data key="d10">x_10001</data>
+      <data key="d2">twitter</data>
+      <data key="d11">한미동맹이 흔들리고 있다. 정부는 대책을 마련해야 한다.</data>
+      <data key="d12">05cabedcf757d411</data>
+      <data key="d7">2025-12-01T08:12:34+00:00</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17" />
+    </node>
+    <node id="b0193c92c335bd3e">
+      <data key="d0">url</data>
+      <data key="d18">news.example.com/article/123</data>
+      <data key="d19" />
+      <data key="d20" />
+      <data key="d21" />
+      <data key="d2">web</data>
+    </node>
+    <node id="fe4d2fc762134104">
+      <data key="d0">domain</data>
+      <data key="d19" />
+      <data key="d22" />
+      <data key="d23" />
+      <data key="d24" />
+      <data key="d2">web</data>
+    </node>
+    <node id="e9959ba21918e779">
+      <data key="d0">hashtag</data>
+      <data key="d25">security</data>
+      <data key="d26">1</data>
+      <data key="d20" />
+      <data key="d2">hashtag</data>
+    </node>
+    <node id="09a321d677641e63">
+      <data key="d0">hashtag</data>
+      <data key="d25">alliance</data>
+      <data key="d26">1</data>
+      <data key="d20" />
+      <data key="d2">hashtag</data>
+    </node>
+    <node id="688bc23a9d24e86f">
+      <data key="d0">user</data>
+      <data key="d1">b2c4e5f6a7d8</data>
+      <data key="d2">twitter</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">850</data>
+      <data key="d6">420</data>
+      <data key="d7" />
+      <data key="d8">False</data>
+      <data key="d9" />
+    </node>
+    <node id="5a1be87af6e7dde6">
+      <data key="d0">content</data>
+      <data key="d10">x_10002</data>
+      <data key="d2">twitter</data>
+      <data key="d11">미군 철수설이 돌고 있다. 확인되지 않은 정보에 주의하세요.</data>
+      <data key="d12">688bc23a9d24e86f</data>
+      <data key="d7">2025-12-01T08:14:22+00:00</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17" />
+    </node>
+    <node id="a69b763a74e490fe">
+      <data key="d0">url</data>
+      <data key="d18">blog.example.kr/post/456</data>
+      <data key="d19" />
+      <data key="d20" />
+      <data key="d21" />
+      <data key="d2">web</data>
+    </node>
+    <node id="8ca9876f4f841a9d">
+      <data key="d0">hashtag</data>
+      <data key="d25">military</data>
+      <data key="d26">1</data>
+      <data key="d20" />
+      <data key="d2">hashtag</data>
+    </node>
+    <node id="49cf661229fbb95b">
+      <data key="d0">content</data>
+      <data key="d10">x_10003</data>
+      <data key="d2">twitter</data>
+      <data key="d11">정부 대응이 너무 늦다. 안보 위기 상황이다.</data>
+      <data key="d12">05cabedcf757d411</data>
+      <data key="d7">2025-12-01T08:22:11+00:00</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17" />
+    </node>
+    <node id="1d1a1bac31be385f">
+      <data key="d0">hashtag</data>
+      <data key="d25">crisis</data>
+      <data key="d26">1</data>
+      <data key="d20" />
+      <data key="d2">hashtag</data>
+    </node>
+    <node id="6958b0a17ed2b570">
+      <data key="d0">user</data>
+      <data key="d1">c9d8e7f6a5b4</data>
+      <data key="d2">twitter</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">150</data>
+      <data key="d6">2000</data>
+      <data key="d7" />
+      <data key="d8">False</data>
+      <data key="d9" />
+    </node>
+    <node id="63fec4d3e2c54fb5">
+      <data key="d0">content</data>
+      <data key="d10">x_10004</data>
+      <data key="d2">twitter</data>
+      <data key="d11">한미동맹이 흔들리고 있다. 정부는 대책을 마련해야 한다.</data>
+      <data key="d12">6958b0a17ed2b570</data>
+      <data key="d7">2025-12-01T08:25:45+00:00</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17" />
+    </node>
+    <node id="36104157a5918220">
+      <data key="d0">user</data>
+      <data key="d1">d1e2f3a4b5c6</data>
+      <data key="d2">twitter</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">50</data>
+      <data key="d6">5000</data>
+      <data key="d7" />
+      <data key="d8">False</data>
+      <data key="d9" />
+    </node>
+    <node id="f4f31595e7acc5f8">
+      <data key="d0">content</data>
+      <data key="d10">x_10005</data>
+      <data key="d2">twitter</data>
+      <data key="d11">Breaking: US-Korea alliance in jeopardy according to sources</data>
+      <data key="d12">36104157a5918220</data>
+      <data key="d7">2025-12-01T08:30:00+00:00</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17" />
+    </node>
+    <node id="1b1d1e335de7b194">
+      <data key="d0">url</data>
+      <data key="d18">fakenews.xyz/story/789</data>
+      <data key="d19" />
+      <data key="d20" />
+      <data key="d21" />
+      <data key="d2">web</data>
+    </node>
+    <node id="1ac40f116935eb93">
+      <data key="d0">hashtag</data>
+      <data key="d25">disinfo</data>
+      <data key="d26">1</data>
+      <data key="d20" />
+      <data key="d2">hashtag</data>
+    </node>
+    <node id="aa806a8ba7366146">
+      <data key="d0">user</data>
+      <data key="d1">bb9a2f77e3c4</data>
+      <data key="d2">youtube</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">5000</data>
+      <data key="d6">45</data>
+      <data key="d7" />
+      <data key="d8">True</data>
+      <data key="d9" />
+    </node>
+    <node id="fde4f6c71cc02cd1">
+      <data key="d0">content</data>
+      <data key="d10">yt_20012</data>
+      <data key="d2">youtube</data>
+      <data key="d11">Exclusive: New evidence suggests policy shift on deployed troops</data>
+      <data key="d12">aa806a8ba7366146</data>
+      <data key="d7">2025-12-01T08:15:10+00:00</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17" />
+    </node>
+    <node id="754a192f4fa8b7d9">
+      <data key="d0">url</data>
+      <data key="d18">youtube.com/watch?v=abc123</data>
+      <data key="d19" />
+      <data key="d20" />
+      <data key="d21" />
+      <data key="d2">web</data>
+    </node>
+    <node id="7a0707d8eeedbba5">
+      <data key="d0">user</data>
+      <data key="d1">cc8b3f88d4e5</data>
+      <data key="d2">youtube</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">12000</data>
+      <data key="d6">120</data>
+      <data key="d7" />
+      <data key="d8">True</data>
+      <data key="d9" />
+    </node>
+    <node id="8c06f83d48e52168">
+      <data key="d0">content</data>
+      <data key="d10">yt_20013</data>
+      <data key="d2">youtube</data>
+      <data key="d11">[팩트체크] 미군 철수설의 진실은?</data>
+      <data key="d12">7a0707d8eeedbba5</data>
+      <data key="d7">2025-12-01T08:18:30+00:00</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17" />
+    </node>
+    <node id="f23bebbea472b3c5">
+      <data key="d0">url</data>
+      <data key="d18">youtube.com/watch?v=def456</data>
+      <data key="d19" />
+      <data key="d20" />
+      <data key="d21" />
+      <data key="d2">web</data>
+    </node>
+    <node id="2b4a3456b0e824ae">
+      <data key="d0">hashtag</data>
+      <data key="d25">factcheck</data>
+      <data key="d26">1</data>
+      <data key="d20" />
+      <data key="d2">hashtag</data>
+    </node>
+    <node id="a6e9bc11de57f4c5">
+      <data key="d0">user</data>
+      <data key="d1">dd9c4g99e5f6</data>
+      <data key="d2">youtube</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">800</data>
+      <data key="d6">30</data>
+      <data key="d7" />
+      <data key="d8">False</data>
+      <data key="d9" />
+    </node>
+    <node id="2410ce59f347c1c0">
+      <data key="d0">content</data>
+      <data key="d10">yt_20014</data>
+      <data key="d2">youtube</data>
+      <data key="d11">미국이 한국을 버릴 것이라는 증거 공개</data>
+      <data key="d12">a6e9bc11de57f4c5</data>
+      <data key="d7">2025-12-01T08:45:00+00:00</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17" />
+    </node>
+    <node id="3cb379cea353b2c1">
+      <data key="d0">url</data>
+      <data key="d18">youtube.com/watch?v=ghi789</data>
+      <data key="d19" />
+      <data key="d20" />
+      <data key="d21" />
+      <data key="d2">web</data>
+    </node>
+    <node id="44a58a354b12dece">
+      <data key="d0">user</data>
+      <data key="d1">c3d1f4aab2e5</data>
+      <data key="d2">telegram</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">250</data>
+      <data key="d6">10</data>
+      <data key="d7" />
+      <data key="d8">False</data>
+      <data key="d9" />
+    </node>
+    <node id="cd3425e982b20217">
+      <data key="d0">content</data>
+      <data key="d10">tg_3307</data>
+      <data key="d2">telegram</data>
+      <data key="d11">동맹 포기설을 퍼뜨리는 기사 링크</data>
+      <data key="d12">44a58a354b12dece</data>
+      <data key="d7">2025-12-01T08:09:02+00:00</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17" />
+    </node>
+    <node id="b99a1556bee8e28b">
+      <data key="d0">url</data>
+      <data key="d18">anonnews.ru/post/45</data>
+      <data key="d19" />
+      <data key="d20" />
+      <data key="d21" />
+      <data key="d2">web</data>
+    </node>
+    <node id="9e103031f5df23dc">
+      <data key="d0">user</data>
+      <data key="d1">e4f2g5hhi6j7</data>
+      <data key="d2">telegram</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">180</data>
+      <data key="d6">25</data>
+      <data key="d7" />
+      <data key="d8">False</data>
+      <data key="d9" />
+    </node>
+    <node id="0831ef6a1265ae7d">
+      <data key="d0">content</data>
+      <data key="d10">tg_3308</data>
+      <data key="d2">telegram</data>
+      <data key="d11">러시아 매체에서 나온 정보인데 확인 필요</data>
+      <data key="d12">9e103031f5df23dc</data>
+      <data key="d7">2025-12-01T08:11:45+00:00</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17" />
+    </node>
+    <node id="4b4e1a60e7848ff1">
+      <data key="d0">url</data>
+      <data key="d18">rt.com/news/123</data>
+      <data key="d19" />
+      <data key="d20" />
+      <data key="d21" />
+      <data key="d2">web</data>
+    </node>
+    <node id="56f3c29d37897b9d">
+      <data key="d0">hashtag</data>
+      <data key="d25">russia</data>
+      <data key="d26">1</data>
+      <data key="d20" />
+      <data key="d2">hashtag</data>
+    </node>
+    <node id="582f4784734045cf">
+      <data key="d0">content</data>
+      <data key="d10">tg_3309</data>
+      <data key="d2">telegram</data>
+      <data key="d11">한국 정부 내부 문서 유출 - 동맹 재검토</data>
+      <data key="d12">44a58a354b12dece</data>
+      <data key="d7">2025-12-01T08:35:20+00:00</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17" />
+    </node>
+    <node id="6cd8ee1309aeffc5">
+      <data key="d0">url</data>
+      <data key="d18">leakedfiles.onion/doc/99</data>
+      <data key="d19" />
+      <data key="d20" />
+      <data key="d21" />
+      <data key="d2">web</data>
+    </node>
+    <node id="a3ec7449a43fcbfe">
+      <data key="d0">hashtag</data>
+      <data key="d25">leak</data>
+      <data key="d26">1</data>
+      <data key="d20" />
+      <data key="d2">hashtag</data>
+    </node>
+    <node id="f0941b8b14525012">
+      <data key="d0">user</data>
+      <data key="d1">f5g3h6ii7k8l</data>
+      <data key="d2">telegram</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">1200</data>
+      <data key="d6">80</data>
+      <data key="d7" />
+      <data key="d8">False</data>
+      <data key="d9" />
+    </node>
+    <node id="27a71134260d451d">
+      <data key="d0">content</data>
+      <data key="d10">tg_3310</data>
+      <data key="d2">telegram</data>
+      <data key="d11">美韩同盟动摇 - 最新消息</data>
+      <data key="d12">f0941b8b14525012</data>
+      <data key="d7">2025-12-01T08:40:15+00:00</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17" />
+    </node>
+    <node id="d12b526abd6cf2e0">
+      <data key="d0">url</data>
+      <data key="d18">chinanews.example.cn/article/567</data>
+      <data key="d19" />
+      <data key="d20" />
+      <data key="d21" />
+      <data key="d2">web</data>
+    </node>
+    <node id="653f7172de377570">
+      <data key="d0">hashtag</data>
+      <data key="d25">china</data>
+      <data key="d26">1</data>
+      <data key="d20" />
+      <data key="d2">hashtag</data>
+    </node>
+    <node id="5f82f17f3e4b3b34">
+      <data key="d0">content</data>
+      <data key="d10">x_10006</data>
+      <data key="d2">twitter</data>
+      <data key="d11">후속 보도: 정부 관계자 발언 정리</data>
+      <data key="d12">05cabedcf757d411</data>
+      <data key="d7">2025-12-01T09:05:00+00:00</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17" />
+    </node>
+    <node id="dba51f7e76f2f651">
+      <data key="d0">url</data>
+      <data key="d18">news.example.com/article/124</data>
+      <data key="d19" />
+      <data key="d20" />
+      <data key="d21" />
+      <data key="d2">web</data>
+    </node>
+    <node id="6a0be7d18eed403c">
+      <data key="d0">hashtag</data>
+      <data key="d25">update</data>
+      <data key="d26">1</data>
+      <data key="d20" />
+      <data key="d2">hashtag</data>
+    </node>
+    <node id="8d2afc6930ab52f3">
+      <data key="d0">user</data>
+      <data key="d1">g6h4i7jj8k9m</data>
+      <data key="d2">twitter</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">8500</data>
+      <data key="d6">150</data>
+      <data key="d7" />
+      <data key="d8">True</data>
+      <data key="d9" />
+    </node>
+    <node id="ca90d936d4718f27">
+      <data key="d0">content</data>
+      <data key="d10">x_10007</data>
+      <data key="d2">twitter</data>
+      <data key="d11">[공식] 외교부 입장문 발표 예정</data>
+      <data key="d12">8d2afc6930ab52f3</data>
+      <data key="d7">2025-12-01T09:10:30+00:00</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17" />
+    </node>
+    <node id="107a000f5b8bc643">
+      <data key="d0">url</data>
+      <data key="d18">mofa.go.kr/press/789</data>
+      <data key="d19" />
+      <data key="d20" />
+      <data key="d21" />
+      <data key="d2">web</data>
+    </node>
+    <node id="9bc126bdb1aaf3f7">
+      <data key="d0">hashtag</data>
+      <data key="d25">official</data>
+      <data key="d26">1</data>
+      <data key="d20" />
+      <data key="d2">hashtag</data>
+    </node>
+    <node id="e52ce7bd61739f9e">
+      <data key="d0">user</data>
+      <data key="d1">h7i5j8kk9l0n</data>
+      <data key="d2">twitter</data>
+      <data key="d3" />
+      <data key="d4" />
+      <data key="d5">25</data>
+      <data key="d6">8000</data>
+      <data key="d7" />
+      <data key="d8">False</data>
+      <data key="d9" />
+    </node>
+    <node id="b4818069f02b63b3">
+      <data key="d0">content</data>
+      <data key="d10">x_10008</data>
+      <data key="d2">twitter</data>
+      <data key="d11">한미동맹이 흔들리고 있다. 정부는 대책을 마련해야 한다.</data>
+      <data key="d12">e52ce7bd61739f9e</data>
+      <data key="d7">2025-12-01T09:15:45+00:00</data>
+      <data key="d13">0.0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17" />
+    </node>
+    <edge source="05cabedcf757d411" target="778bfa9bc51426bb" id="0">
+      <data key="d27">posts</data>
+      <data key="d28">1.0</data>
+      <data key="d29">2025-12-01T08:12:34+00:00</data>
+    </edge>
+    <edge source="05cabedcf757d411" target="49cf661229fbb95b" id="0">
+      <data key="d27">posts</data>
+      <data key="d28">1.0</data>
+      <data key="d29">2025-12-01T08:22:11+00:00</data>
+    </edge>
+    <edge source="05cabedcf757d411" target="5f82f17f3e4b3b34" id="0">
+      <data key="d27">posts</data>
+      <data key="d28">1.0</data>
+      <data key="d29">2025-12-01T09:05:00+00:00</data>
+    </edge>
+    <edge source="778bfa9bc51426bb" target="b0193c92c335bd3e" id="0">
+      <data key="d27">contains_url</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="778bfa9bc51426bb" target="e9959ba21918e779" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="778bfa9bc51426bb" target="09a321d677641e63" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="b0193c92c335bd3e" target="fe4d2fc762134104" id="0">
+      <data key="d27">url_belongs_to</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="b0193c92c335bd3e" target="fe4d2fc762134104" id="1">
+      <data key="d27">url_belongs_to</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="b0193c92c335bd3e" target="fe4d2fc762134104" id="2">
+      <data key="d27">url_belongs_to</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="688bc23a9d24e86f" target="5a1be87af6e7dde6" id="0">
+      <data key="d27">posts</data>
+      <data key="d28">1.0</data>
+      <data key="d29">2025-12-01T08:14:22+00:00</data>
+    </edge>
+    <edge source="5a1be87af6e7dde6" target="a69b763a74e490fe" id="0">
+      <data key="d27">contains_url</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="5a1be87af6e7dde6" target="e9959ba21918e779" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="5a1be87af6e7dde6" target="8ca9876f4f841a9d" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="a69b763a74e490fe" target="fe4d2fc762134104" id="0">
+      <data key="d27">url_belongs_to</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="49cf661229fbb95b" target="e9959ba21918e779" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="49cf661229fbb95b" target="1d1a1bac31be385f" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="6958b0a17ed2b570" target="63fec4d3e2c54fb5" id="0">
+      <data key="d27">posts</data>
+      <data key="d28">1.0</data>
+      <data key="d29">2025-12-01T08:25:45+00:00</data>
+    </edge>
+    <edge source="63fec4d3e2c54fb5" target="b0193c92c335bd3e" id="0">
+      <data key="d27">contains_url</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="63fec4d3e2c54fb5" target="e9959ba21918e779" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="63fec4d3e2c54fb5" target="09a321d677641e63" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="36104157a5918220" target="f4f31595e7acc5f8" id="0">
+      <data key="d27">posts</data>
+      <data key="d28">1.0</data>
+      <data key="d29">2025-12-01T08:30:00+00:00</data>
+    </edge>
+    <edge source="f4f31595e7acc5f8" target="1b1d1e335de7b194" id="0">
+      <data key="d27">contains_url</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="f4f31595e7acc5f8" target="09a321d677641e63" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="f4f31595e7acc5f8" target="1ac40f116935eb93" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="1b1d1e335de7b194" target="fe4d2fc762134104" id="0">
+      <data key="d27">url_belongs_to</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="aa806a8ba7366146" target="fde4f6c71cc02cd1" id="0">
+      <data key="d27">posts</data>
+      <data key="d28">1.0</data>
+      <data key="d29">2025-12-01T08:15:10+00:00</data>
+    </edge>
+    <edge source="fde4f6c71cc02cd1" target="754a192f4fa8b7d9" id="0">
+      <data key="d27">contains_url</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="fde4f6c71cc02cd1" target="e9959ba21918e779" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="fde4f6c71cc02cd1" target="8ca9876f4f841a9d" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="754a192f4fa8b7d9" target="fe4d2fc762134104" id="0">
+      <data key="d27">url_belongs_to</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="7a0707d8eeedbba5" target="8c06f83d48e52168" id="0">
+      <data key="d27">posts</data>
+      <data key="d28">1.0</data>
+      <data key="d29">2025-12-01T08:18:30+00:00</data>
+    </edge>
+    <edge source="8c06f83d48e52168" target="f23bebbea472b3c5" id="0">
+      <data key="d27">contains_url</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="8c06f83d48e52168" target="2b4a3456b0e824ae" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="8c06f83d48e52168" target="8ca9876f4f841a9d" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="f23bebbea472b3c5" target="fe4d2fc762134104" id="0">
+      <data key="d27">url_belongs_to</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="a6e9bc11de57f4c5" target="2410ce59f347c1c0" id="0">
+      <data key="d27">posts</data>
+      <data key="d28">1.0</data>
+      <data key="d29">2025-12-01T08:45:00+00:00</data>
+    </edge>
+    <edge source="2410ce59f347c1c0" target="3cb379cea353b2c1" id="0">
+      <data key="d27">contains_url</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="2410ce59f347c1c0" target="1ac40f116935eb93" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="2410ce59f347c1c0" target="09a321d677641e63" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="3cb379cea353b2c1" target="fe4d2fc762134104" id="0">
+      <data key="d27">url_belongs_to</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="44a58a354b12dece" target="cd3425e982b20217" id="0">
+      <data key="d27">posts</data>
+      <data key="d28">1.0</data>
+      <data key="d29">2025-12-01T08:09:02+00:00</data>
+    </edge>
+    <edge source="44a58a354b12dece" target="582f4784734045cf" id="0">
+      <data key="d27">posts</data>
+      <data key="d28">1.0</data>
+      <data key="d29">2025-12-01T08:35:20+00:00</data>
+    </edge>
+    <edge source="cd3425e982b20217" target="b99a1556bee8e28b" id="0">
+      <data key="d27">contains_url</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="cd3425e982b20217" target="09a321d677641e63" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="cd3425e982b20217" target="1ac40f116935eb93" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="b99a1556bee8e28b" target="fe4d2fc762134104" id="0">
+      <data key="d27">url_belongs_to</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="9e103031f5df23dc" target="0831ef6a1265ae7d" id="0">
+      <data key="d27">posts</data>
+      <data key="d28">1.0</data>
+      <data key="d29">2025-12-01T08:11:45+00:00</data>
+    </edge>
+    <edge source="0831ef6a1265ae7d" target="4b4e1a60e7848ff1" id="0">
+      <data key="d27">contains_url</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="0831ef6a1265ae7d" target="56f3c29d37897b9d" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="0831ef6a1265ae7d" target="1ac40f116935eb93" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="4b4e1a60e7848ff1" target="fe4d2fc762134104" id="0">
+      <data key="d27">url_belongs_to</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="582f4784734045cf" target="6cd8ee1309aeffc5" id="0">
+      <data key="d27">contains_url</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="582f4784734045cf" target="a3ec7449a43fcbfe" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="582f4784734045cf" target="1ac40f116935eb93" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="6cd8ee1309aeffc5" target="fe4d2fc762134104" id="0">
+      <data key="d27">url_belongs_to</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="f0941b8b14525012" target="27a71134260d451d" id="0">
+      <data key="d27">posts</data>
+      <data key="d28">1.0</data>
+      <data key="d29">2025-12-01T08:40:15+00:00</data>
+    </edge>
+    <edge source="27a71134260d451d" target="d12b526abd6cf2e0" id="0">
+      <data key="d27">contains_url</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="27a71134260d451d" target="653f7172de377570" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="27a71134260d451d" target="09a321d677641e63" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="d12b526abd6cf2e0" target="fe4d2fc762134104" id="0">
+      <data key="d27">url_belongs_to</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="5f82f17f3e4b3b34" target="dba51f7e76f2f651" id="0">
+      <data key="d27">contains_url</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="5f82f17f3e4b3b34" target="e9959ba21918e779" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="5f82f17f3e4b3b34" target="6a0be7d18eed403c" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="dba51f7e76f2f651" target="fe4d2fc762134104" id="0">
+      <data key="d27">url_belongs_to</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="8d2afc6930ab52f3" target="ca90d936d4718f27" id="0">
+      <data key="d27">posts</data>
+      <data key="d28">1.0</data>
+      <data key="d29">2025-12-01T09:10:30+00:00</data>
+    </edge>
+    <edge source="ca90d936d4718f27" target="107a000f5b8bc643" id="0">
+      <data key="d27">contains_url</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="ca90d936d4718f27" target="9bc126bdb1aaf3f7" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="ca90d936d4718f27" target="e9959ba21918e779" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="107a000f5b8bc643" target="fe4d2fc762134104" id="0">
+      <data key="d27">url_belongs_to</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="e52ce7bd61739f9e" target="b4818069f02b63b3" id="0">
+      <data key="d27">posts</data>
+      <data key="d28">1.0</data>
+      <data key="d29">2025-12-01T09:15:45+00:00</data>
+    </edge>
+    <edge source="b4818069f02b63b3" target="b0193c92c335bd3e" id="0">
+      <data key="d27">contains_url</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="b4818069f02b63b3" target="e9959ba21918e779" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+    <edge source="b4818069f02b63b3" target="09a321d677641e63" id="0">
+      <data key="d27">contains_hashtag</data>
+      <data key="d28">1.0</data>
+      <data key="d29" />
+    </edge>
+  </graph>
+</graphml>
